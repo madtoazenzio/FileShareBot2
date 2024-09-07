@@ -28,7 +28,7 @@ OWNER = os.environ.get("OWNER", "spidy")
 OWNER_ID = int(os.environ.get("OWNER_ID", "6891428437"))
 
 #Port
-PORT = os.environ.get("PORT", "8030")
+PORT = os.environ.get("PORT", "8080")
 
 #Database
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://madtoazenzio:f9oDLc4c6H5zdP44@devutty.pk5so.mongodb.net/?retryWrites=true&w=majority&appName=devutty")
